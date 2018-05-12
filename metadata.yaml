@@ -1,0 +1,38 @@
+_repo: Operation--Outer-Space_18361
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: "Operation: Outer Space is a science fiction novel by American writer\
+  \ Murray Leinster. It was first published in 1954 by Fantasy Press in an edition\
+  \ of 2,042 copies.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18361'
+  wikidata: Q7096715
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Television programs -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+title: 'Operation: Outer Space'
+url: http://www.gutenberg.org/ebooks/18361
+wikipedia:
+- https://en.wikipedia.org/wiki/Operation:_Outer_Space
