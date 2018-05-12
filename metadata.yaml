@@ -17,6 +17,8 @@ creator:
 description: "Operation: Outer Space is a science fiction novel by American writer\
   \ Murray Leinster. It was first published in 1954 by Fantasy Press in an edition\
   \ of 2,042 copies.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18361#Operation--Outer-Space
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-05-10'
 gutenberg_type: Text
